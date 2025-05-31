@@ -3,7 +3,7 @@
 My name is SP4R0W, I am a game developer and founder of [Sparrowworks](https://github.com/Sparrowworks).<br>
 You can check out my games [here](https://sp4r0w.itch.io/) on my itch.io page.
 
-❗ We're currently working hard to update all our old games to match current project standards, so stay tuned!<br>
+❗ We're currently working hard on new projects, so stay tuned!<br>
 If you want to contact me, use this e-mail: sparrowworks@proton.me<br>
 Alternatively, you can also comment one of my games on itch.<br>
 
